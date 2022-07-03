@@ -1,0 +1,22 @@
+{
+  "name": "facebook-homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibnballo1/facebook-homepage.git"
+  },
+  "author": "ibnballo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibnballo1/facebook-homepage/issues"
+  },
+  "homepage": "https://github.com/Ibnballo1/facebook-homepage#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
